@@ -1,1 +1,67 @@
 // Specific CSS for your home-page
+.crash-img {
+  margin-top:0px;
+  background-image: image-url('crash.jpeg');
+  background-size: cover;
+  min-height: 900px;
+  // max-height: 789px;
+}
+
+.x1-img {
+  margin-top:0px;
+  background-image: image-url('x1.png');
+  background-size: cover;
+  min-height: 495px;
+  // max-height: 789px;
+}
+
+.x2-img {
+  margin-top:0px;
+  background-image: image-url('x2.png');
+  background-size: cover;
+  min-height: 536px;
+  // max-height: 789px;
+}
+
+.x3-img {
+  padding: 0px;
+  background-image: image-url('x3.png');
+  background-size: cover;
+  min-height: 700px;
+  // max-height: 789px;
+}
+
+.crash-text {
+  padding-top: 9%;
+  padding-left: 40%;
+  color: red;
+  font-size: 80px;
+}
+
+.x1-text {
+  padding-top: 4%;
+  padding-left: 31%;
+  color: red;
+  font-size: 65px;
+}
+
+.x1-text2 {
+  padding-top: 4%;
+  padding-left: 22%;
+  font-size: 30px;
+}
+
+
+.x2-text {
+  padding-top: 6%;
+  padding-left: 22%;
+  color: red;
+  font-size: 65px;
+}
+
+.x3-text {
+  padding-top: 8%;
+  padding-left: 22%;
+  color: red;
+  font-size: 65px;
+}
