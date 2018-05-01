@@ -1,4 +1,26 @@
 // Specific CSS for your home-page
+.home-scout-img {
+  margin-top:0px;
+  background-image: image-url('home_scout.jpeg');
+  background-size: cover;
+  min-height: 900px;
+  // max-height: 789px;
+}
+
+.home-text {
+  color: blue;
+  font-size: 65px;
+  padding-left: 3%;
+  padding-right: 3%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  margin-left: 17%;
+  margin-right: 15%;
+  background-color: white;
+}
+
+
+
 .crash-img {
   margin-top:0px;
   background-image: image-url('crash.jpeg');
