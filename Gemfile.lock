@@ -191,7 +191,7 @@ DEPENDENCIES
   devise
   figaro
   font-awesome-sass (~> 4.7)
-  jbuilder (~> 2.0)
+  jbuilder (~> 2.5)
   listen (~> 3.0.5)
   pg (~> 0.21)
   pry-byebug

@@ -4,7 +4,7 @@ ruby '2.5.1'
 
 gem 'devise'
 gem 'figaro'
-gem 'jbuilder', '~> 2.0'
+gem 'jbuilder', '~> 2.5'
 gem 'pg', '~> 0.21'
 gem 'puma'
 gem 'rails', '5.1.5'
